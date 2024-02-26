@@ -1,0 +1,16 @@
+{
+    "name": "maumau/core-maumau-cli",
+    "description": "Tratamento de release",
+    "autoload": {
+        "psr-4": {
+            "Maumau\\CoreMaumauCli\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mauricio Pereira",
+            "email": "mauriciopereira2310@gmail.com"
+        }
+    ],
+    "require": {}
+}
